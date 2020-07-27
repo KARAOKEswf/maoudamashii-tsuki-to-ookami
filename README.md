@@ -14,7 +14,7 @@
 - カラオケ字幕を自由に素材として加工できるように使って欲しいため、配布となっています。
 - 楽曲と歌詞に関するライセンスに関しては、「[魔王魂](https://maoudamashii.jokersounds.com/)」さんの「[利用規約](https://maoudamashii.jokersounds.com/music_rule.html)」を必ずお読み頂き、この規約を必ずご理解下さい。
 - 当リポジトリで配布されるファイルのライセンスは、**Creative Commmons BY-4.0 License** となっており、「Music and Words: 魔王魂(MaouDamashii)」と「#KARAOKEswf」の表示があれば、自由にお使い頂けます。
-- この楽曲と歌詞を一切使わず、新たなカラオケ字幕として作成したい場合は、「#KARAOKEswf」の明記が必要となります。
+- この楽曲と歌詞を一切使わず、新たなカラオケ字幕として作成したい場合は、[こちらのリポジトリ](https://github.com/KARAOKEswf/KARAOKEswf)でお願い致します。
 
 
 ## 配布ファイルについて
