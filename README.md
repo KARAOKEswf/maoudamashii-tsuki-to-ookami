@@ -22,4 +22,4 @@
 - GitHub アカウントを持ってる方は、 Folk して、Readme に「加工箇所」を明記し「加工済みのFlaファイル」を配布して下さるとありがたいです。
 - 作成使用ソフトは、「**Adobe Animate 2020**」ですので、それより古いバージョンのソフトウェアでは動作を確認しておりません。
 - 当リポジトリでは .swf ファイルの配布は行っておりません。昨今の Adobe Flash についての扱い的（Flash は オワコン）にも第三者が再配布することも避けた方が良いとわたしは思います。
-- .Fla ファイル内には、楽曲は内蔵しておりません（無加工の再配布に該当するため）。お手数ですが「[月と狼 (旧)](https://maoudamashii.jokersounds.com/archives/song_mio_tsuki_to_okami.html)」からダウンロードして下さい。
+- .Fla ファイル内には、楽曲は内蔵しておりません（無加工の再配布に該当するため）。お手数ですが「[月と狼 (旧)](https://maoudamashii.jokersounds.com/archives/song_mio_tsuki_to_okami.html)」からフル版をダウンロードして下さい。
