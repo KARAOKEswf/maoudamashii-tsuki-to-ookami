@@ -4,8 +4,8 @@
 
 # 動画
 
-[![YouTube動画リンク](https://img.youtube.com/vi/GItW-7GkUuE/mqdefault.jpg)](https://www.youtube.com/watch?v=GItW-7GkUuE)
-- [YouTube動画リンク](https://www.youtube.com/watch?v=GItW-7GkUuE)
+
+- [YouTube動画リンク](https://www.youtube.com/watch?v=GItW-7GkUuE)<br>[![YouTube動画リンク](https://img.youtube.com/vi/GItW-7GkUuE/mqdefault.jpg)](https://www.youtube.com/watch?v=GItW-7GkUuE)
 
 # 概要
 
